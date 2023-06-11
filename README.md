@@ -1,4 +1,4 @@
-# DoAn_MACHBAOCHAY
+# PROJECT_FIRE-ALARM-CIRCUIT
 * Mạch báo cháy sử dụng chip vi xử lý 8051
 * File DoAn.c chạy mạch mô phỏng PROTEUS
 * File DoAn_real.c chứa code để chạy mạch THỰC TẾ ( chip AT89S51 )
